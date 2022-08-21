@@ -1,0 +1,7 @@
+{
+    "GET": "/tutorialDataList",
+    "POST": "/tutorialDataList",
+    "PUT": "/tutorialDataList",
+    "DELETE": "/tutorialDataList"
+  }
+  
